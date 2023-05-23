@@ -10,4 +10,3 @@ npm i
 
 # Start app
 ```npm start```
-Paste your html string and hit enter key
